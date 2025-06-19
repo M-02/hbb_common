@@ -101,6 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["nas3.daishen.ltd"];
+
 pub const RS_PUB_KEY: &str = "6gp3Eiu0qOvcMNUpzZmzPtkJkfQL9+L+pYyyOKbzquI=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
